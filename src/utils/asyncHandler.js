@@ -8,6 +8,9 @@ const asyncHandler = (requestHandler) => {
   };
 };
 
+
+
+
 // using try catch
 // const asyncHandler = (fn) => async(req, res, next) => {
 //     try{
